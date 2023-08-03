@@ -14,7 +14,7 @@ import junit.framework.Assert;
 
 public class RediffTest {
 
-	
+	//gorila is a friend of sarula 
 
 	//@SuppressWarnings("deprecation")
 	@Test
